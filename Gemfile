@@ -24,3 +24,4 @@ end
 
 gem 'execjs'
 gem 'therubyracer'
+gem 'rb-readline'
